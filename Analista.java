@@ -4,7 +4,7 @@
 package classes;
 
 /**
- * @author Leonardo
+ * @author Leonardo de Lima
  *
  */
 public class Analista extends Funcionario{
